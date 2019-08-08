@@ -1,9 +1,10 @@
 {
-  "homepage": "https://yukiwish0.github.io/calc/public/",
+  "homepage": ".",
   "name": "clac",
   "version": "0.1.0",
-  "private": true,
-  "dependencies": {
+  "public": "build",
+  "private": false,
+,  "dependencies": {
     "gh-pages": "^2.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
